@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-details{
+  display: flex;
+  padding:20px;
+  justify-content: space-between;
+  word-break: break-all;
+}
